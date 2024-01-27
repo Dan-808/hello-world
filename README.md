@@ -1,5 +1,5 @@
 # hello-world-python
-Nesse projeto estou apenas rodando um "hello world" em python dentro de um container docker 
+Neste projeto estou apenas rodando um "hello world" em python dentro de um container docker 
 
 
 ## 🚀 Começando
